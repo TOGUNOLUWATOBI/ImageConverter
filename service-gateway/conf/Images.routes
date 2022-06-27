@@ -1,0 +1,2 @@
+POST        /invertImage/              controllers.ImageController.invertImage(filepath: String  )
+GET         /:fileName                            controllers.ImageController.viewImage(fileName: String)
